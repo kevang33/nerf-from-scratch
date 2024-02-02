@@ -4,9 +4,13 @@ My PyTorch implementation of the original NeRF paper: [NeRF - Representing Scene
 [This link](https://dtransposed.github.io/blog/2022/08/06/NeRF/) also guided my implementation.
 
 ## 1. Load Dataset
+![dataset](readme_imgs/dataset.png)
 ## 2. March Camera Rays Through Scene
+![rays](readme_imgs/rays.png)
 ## 3. Collect Query Points
+![query points](readme_imgs/query_pts.png)
 ## 4. Positional Encoding
+![positional encoding](readme_imgs/posenc.png)
 ## 5. Neural Network Inference
 ## 6. Volume Rendering
 ## 7. Training Loop

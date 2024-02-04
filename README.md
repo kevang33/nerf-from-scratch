@@ -12,6 +12,6 @@ My PyTorch implementation of the original NeRF paper: [NeRF - Representing Scene
 ## 4. Positional Encoding
 ![positional encoding](readme_imgs/posenc.png)
 ## 5. Neural Network Inference
+TODO
 ## 6. Volume Rendering
-## 7. Training Loop
-## 8. Run
+TODO
